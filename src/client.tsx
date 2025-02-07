@@ -13,7 +13,7 @@ const Chat = () => {
   const [messages, setMessages] = useState<Message[]>([{
     id: 1,
     role: "assistant",
-    content: "Hello! I'm Nebius AI Deepseek. How can I assist you today?"
+    content: "Hello! I'm Nebius AI Chatbot. How can I assist you today?"
   }]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -95,7 +95,7 @@ const Chat = () => {
           </button> */}
           <a
             className="login-btn"
-            href="https://github.com/your-username/your-repo"
+            href="https://github.com/Arindam200/nebius-hono"
             target="_blank"
             rel="noopener noreferrer"
           >
