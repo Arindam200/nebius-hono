@@ -1,4 +1,7 @@
-# Nebius AI with Hono Example
+
+![Nebius AI + Hono + Cloudflare Example](https://github.com/user-attachments/assets/31a5c013-fb4e-4ea0-a764-7554945597bf)
+
+# Nebius AI + Hono + Cloudflare Example
 
 This is a project to provide an example of using [Nebius AI](https://dub.sh/nebius) with Hono.
 
@@ -56,6 +59,9 @@ npm run dev
 ```
 
 Then open your browser at [http://localhost:5173/](http://localhost:5173/) to interact with the chat application.
+
+<img width="1710" alt="Screenshot 2025-02-11 at 8 04 01 PM" src="https://github.com/user-attachments/assets/9058ad81-be7f-4301-97c8-aa075ab6f492" />
+
 
 ## Deployment
 
